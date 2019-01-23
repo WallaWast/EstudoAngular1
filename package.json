@@ -1,0 +1,22 @@
+{
+  "name": "exerccios_angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkpc1/EstudoAngular1.git"
+  },
+  "author": "Wast",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkpc1/EstudoAngular1/issues"
+  },
+  "homepage": "https://github.com/bkpc1/EstudoAngular1#readme",
+  "dependencies": {
+    "angular": "^1.7.6"
+  }
+}
